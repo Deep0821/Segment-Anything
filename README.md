@@ -69,7 +69,7 @@ https://user-images.githubusercontent.com/28050374/232959816-07f2826f-d267-4dda-
 #### Linux & Windows
 ```shell
 # Clone the repository:
-git clone https://github.com/gaomingqi/Track-Anything.git
+git clone https://github.com/Deep0821/Segment-Anything-Tracking.git
 cd Track-Anything
 
 # Install dependencies: 
